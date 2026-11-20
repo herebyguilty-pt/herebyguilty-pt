@@ -40,7 +40,7 @@
       </table>
     </td>
     <td>
-      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HG1Justine_HD_Gavel1.png" width="200">
+      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2Justine_HD_Gavel1.gif" width="200">
       <p align="text-align: center;">"Overruled!"</p>
     </td>
   </tr>
