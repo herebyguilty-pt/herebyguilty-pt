@@ -84,7 +84,7 @@
       </table>
     </td>
     <td>
-      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HGPhoenixSweatingHD.png" width="200">
+      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2PhoenixSweatingHD.gif" width="200">
       <p align="text-align: center;">"Words can not describe how <br> screwed I am."</p>
     </td>
   </tr>
