@@ -2,8 +2,16 @@
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HerebyGuiltyHoldingCell.png">
 </div>
 
-<p style="text-align: center;">An Ace Attorney themed "award" account for <a href="https://pony.town">Pony Town.</a></p>
+<div align="center">
 
+# <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguilty.atabook.org">Report</a>
+An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories.
+
+
+</div>
+
+<br>
+<br>
 <br>
 
 <p align="center">
