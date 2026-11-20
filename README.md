@@ -28,12 +28,12 @@
         </tr>
         <tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@salt2465</a></td>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@salt2465</a></td>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
@@ -66,18 +66,18 @@
           <th><b>⚖️ With...</b></th>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@salt2465</a></td>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>Being an awesome mod. <br> Being too awesome.</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@salt2465</a></td>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@salt2465</a></td>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
