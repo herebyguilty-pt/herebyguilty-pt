@@ -91,3 +91,47 @@
 </table>
   </details>
 </div>
+
+<p align="center">
+  <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HG_Death.png" width="300">
+</p>
+<div align="center">
+  <details open>
+    <summary><u>-----------------------------</u></summary
+    <br>
+    <div align="center">
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th><b>⚖️ This user...</b></th>
+          <th><b>⚖️ Is guilty of...</b></th>
+          <th><b>⚖️ With...</b></th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>Being an awesome mod. <br> Being too awesome.</td>
+          <td>With zero chance of parole.</td>
+        </tr>
+        <tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> Being too awesome.</td>
+          <td>With [REDACTED] of parole.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> Being too awesome.</td>
+          <td>With [REDACTED] of parole.</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2AAI_Franziska_von_Karma_Thinking_2.gif" width="200">
+      <p align="text-align: center;">"The only thing allowed to <br> interrupt me is death <br> itself."</p>
+    </td>
+  </tr>
+</table>
+  </details>
+</div>
