@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=herebyguilty-pt&style=flat-square&color=a6735d">
+</p>
 
 <div style="text-align: center;">
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HerebyGuiltyHoldingCell.png">
