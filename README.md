@@ -3,18 +3,24 @@
 </div>
 <div align="center">
 
-# <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguilty.atabook.org">Report</a>
+# <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguiltyptreport.straw.page">Report</a>
 An <u>Ace Attorney</u> themed custom "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories. This account is strictly nonserious and abides by first come first serve.
 
-Each nominee must only have up to two custom awards (or in this case, charges) at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
-
-$${\color{yellow}Work  in  progress.}$$
+Each nominee must only have up to two custom awards (or in this case, charges) at a time, and can only be in one category at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
 
 </div>
 
 <br>
 <br>
 <br>
+
+<div style="text-align: center;">
+  <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/DIVHG.png">
+</div>
+<br>
+<br>
+<br>
+
 
 <p align="center">
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/KG_Impr.png" width="300">
@@ -35,18 +41,18 @@ $${\color{yellow}Work  in  progress.}$$
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@salt2465</a></td>
-          <td>Being an awesome mod. <br> Being too awesome.</td>
-          <td>With zero chance of parole.</td>
+          <td>Being an awesome account mod <br> Being too obsessed with underrated characters</td>
+          <td>With chance of parole.</td>
         </tr>
         <tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
       </table>
@@ -79,18 +85,18 @@ $${\color{yellow}Work  in  progress.}$$
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
       </table>
@@ -123,16 +129,16 @@ $${\color{yellow}Work  in  progress.}$$
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
         </tr>
         <tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
         </tr>
       </table>
     </td>
@@ -164,18 +170,18 @@ $${\color{yellow}Work  in  progress.}$$
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> Being too awesome.</td>
+          <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
         </tr>
       </table>
