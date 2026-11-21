@@ -8,7 +8,7 @@ An <u>Ace Attorney</u> themed custom "award" account for <a href="https://exampl
 
 Each nominee must only have up to two custom awards (or in this case, charges) at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
 
-$${\color{yellow}Work in progress.}$$
+$${\color{yellow}Work  in  progress.}$$
 
 </div>
 
