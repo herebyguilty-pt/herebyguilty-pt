@@ -4,9 +4,9 @@
 <div align="center">
 
 # <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguiltyptreport.straw.page">Report</a>
-An <u>Ace Attorney</u> themed custom "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories. This account is strictly nonserious and abides by first come first serve.
+An <ins>Ace Attorney</ins> prison themed custom "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories. <b>This account is strictly nonserious and abides by first come first serve.</b>
 
-Each nominee must only have up to two custom awards (or in this case, charges) at a time, and can only be in one category at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
+Each nominee must only have up to two custom awards <i>(or in this case, charges)</i> at a time, and can only be in one category at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
 
 </div>
 
