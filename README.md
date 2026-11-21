@@ -1,12 +1,14 @@
 <div style="text-align: center;">
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HerebyGuiltyHoldingCell.png">
 </div>
-
 <div align="center">
 
 # <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguilty.atabook.org">Report</a>
-An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories.
+An <u>Ace Attorney</u> themed custom "award" account for <a href="https://example.com">pony.town</a>, with four cosmetic categories. This account is strictly nonserious and abides by first come first serve.
 
+Each nominee must only have up to two custom awards (or in this case, charges) at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
+
+$${\color{yellow}Work in progress.}$$
 
 </div>
 
@@ -19,7 +21,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
 </p>
 <div align="center">
   <details open>
-    <summary><u>-----------------------------</u></summary
+    <summary><u>          </u></summary
     <br>
     <div align="center">
 <table>
@@ -63,7 +65,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
 </p>
 <div align="center">
   <details open>
-    <summary><u>-----------------------------</u></summary
+    <summary><u>  </u></summary
     <br>
     <div align="center">
 <table>
@@ -107,7 +109,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
 </p>
 <div align="center">
   <details open>
-    <summary><u>-----------------------------</u></summary
+    <summary><u>    </u></summary
     <br>
     <div align="center">
 <table>
@@ -148,7 +150,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
 </p>
 <div align="center">
   <details open>
-    <summary><u>-----------------------------</u></summary
+    <summary><u>  </u></summary
     <br>
     <div align="center">
 <table>
