@@ -39,7 +39,7 @@ Each nominee must only have up to two custom awards (or in this case, charges) a
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@salt2465</a></td>
-          <td>Being an awesome account mod <br> Being too obsessed with underrated characters</td>
+          <td>Being an awesome account mod <br> Being too obsessed with underrated <br> characters</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
