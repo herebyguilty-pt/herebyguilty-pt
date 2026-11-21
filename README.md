@@ -84,7 +84,7 @@ Each nominee must only have up to two custom awards (or in this case, charges) a
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
-          <td>With zero chance of parole.</td>
+          <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
         <tr>
