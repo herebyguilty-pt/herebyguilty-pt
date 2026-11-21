@@ -77,7 +77,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>Being an awesome mod. <br> Being too awesome.</td>
+          <td>N/A <br> Being too awesome.</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
@@ -121,7 +121,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>Being an awesome mod. <br> Being too awesome.</td>
+          <td>N/A <br> Being too awesome.</td>
         </tr>
         <tr>
         <tr>
@@ -135,7 +135,7 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
       </table>
     </td>
     <td>
-      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2AAI_Franziska_von_Karma_Thinking_2.gif" width="200">
+      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2AIFranziskaArmsTalk.gif" width="200">
       <p align="text-align: center;">"The only thing allowed to <br> interrupt me is death <br> itself."</p>
     </td>
   </tr>
