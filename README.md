@@ -1,3 +1,11 @@
+![Profile Views](https://komarev.com/ghpvc/?username=herebyguilty-pt&style=flat-square&color=a6735d)
+
+<div style="text-align: center;">
+  <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HerebyGuiltyHoldingCell.png">
+</div>
+<div align="center">
+
+
 <div style="text-align: center;">
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HerebyGuiltyHoldingCell.png">
 </div>
@@ -82,9 +90,9 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <th><b>⚖️ With...</b></th>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> N/A</td>
-          <td>With [REDACTED] of parole.</td>
+          <td><a href="https://github.com/spring-fever">@spring-fever</a></td>
+          <td>for abandoning charlie while <br> he was in the poop factory</td>
+          <td>With zero chance of parole.</td>
         </tr>
         <tr>
         <tr>
