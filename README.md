@@ -12,12 +12,10 @@ Each nominee must only have up to two custom awards (or in this case, charges) a
 
 <br>
 <br>
-<br>
 
 <div style="text-align: center;">
   <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/DIVHG.png">
 </div>
-<br>
 <br>
 <br>
 
