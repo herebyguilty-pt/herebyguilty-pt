@@ -142,3 +142,44 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
 </table>
   </details>
 </div>
+
+<p align="center">
+  <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/HG_Juvie.png" width="300">
+</p>
+<div align="center">
+  <details open>
+    <summary><u>-----------------------------</u></summary
+    <br>
+    <div align="center">
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th><b>⚖️ This user...</b></th>
+          <th><b>⚖️ Is guilty of...</b></th>
+          <th><b>⚖️ With...</b></th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> Being too awesome.</td>
+        </tr>
+        <tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> Being too awesome.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> Being too awesome.</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2Sebastian_HD_SpreadArms2.gif" width="200">
+      <p align="text-align: center;">"Another winning deduction, <br> brought to you by one <br> Winner, Eustace - <br> Prosecutor Extraordinaire!"</p>
+    </td>
+  </tr>
+</table>
+  </details>
+</div>
