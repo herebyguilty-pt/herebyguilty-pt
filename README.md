@@ -163,15 +163,18 @@ An <u>Ace Attorney</u> themed "award" account for <a href="https://example.com">
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
+          <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
+          <td>With [REDACTED] of parole.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> Being too awesome.</td>
+          <td>With [REDACTED] of parole.</td>
         </tr>
       </table>
     </td>
