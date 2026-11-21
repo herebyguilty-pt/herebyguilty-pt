@@ -54,9 +54,9 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>With chance of parole.</td>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> N/A</td>
-          <td>With [REDACTED] of parole.</td>
+          <td><a href="https://github.com/lillyzbeefydie">@lillyzbeefydie</a></td>
+          <td>pushed bb$enior down the stairs <br> theft</td>
+          <td>With chance of parole.</td>
         </tr>
       </table>
     </td>
@@ -193,6 +193,15 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
       </table>
     </td>
     <td>
+
+
+<!-- 
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> N/A</td>
+          <td>With [REDACTED] of parole.</td>
+        </tr>
+-->
       <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2Sebastian_HD_SpreadArms2.gif" width="200">
       <p align="text-align: center;">"Another winning deduction, <br> brought to you by one <br> Winner, Eustace - <br> Prosecutor Extraordinaire!"</p>
     </td>
