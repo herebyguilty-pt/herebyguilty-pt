@@ -9,7 +9,7 @@
 <div align="center">
 
 # <a href="https://herebyguilty.atabook.org">Nominate</a> 🧑‍⚖️ <a href="https://herebyguiltyptreport.straw.page">Report</a>
-An <ins>Ace Attorney</ins> prison themed custom "award" account for <a href="https://pony.town">pony.town</a>, with four cosmetic categories. <b>This account is strictly nonserious and abides by first come first serve.</b>
+An <ins>Ace Attorney</ins> prison themed custom "award" account for <a href="https://pony.town">pony.town</a>, with four cosmetic categories. <b>This account is strictly nonserious and abides by first come first serve. FCFS is only applicable for "#1 Fan" etc. charges.</b>
 
 Each nominee must only have up to two custom awards <i>(or in this case, charges)</i> at a time, and can only be in one category at a time. Self-nomination is allowed. "Problematic" charges are disallowed. Fonts are disallowed for the sake of readability. 
 
@@ -49,9 +49,9 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
         </tr>
         <tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> N/A</td>
-          <td>With [REDACTED] of parole.</td>
+          <td><a href="https://github.com/starryscreamer">@starryscreamer</a></td>
+          <td>being gay <br> aggravated assault</td>
+          <td>With chance of parole.</td>
         </tr>
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
