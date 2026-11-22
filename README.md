@@ -137,8 +137,8 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
         </tr>
         <tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> N/A</td>
+          <td><a href="https://github.com/ReplicaOfAffection">@ReplicaOfAffection</a></td>
+          <td>Being the greatest Filia clone <br> Identity Theft</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
