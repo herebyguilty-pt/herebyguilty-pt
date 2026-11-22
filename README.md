@@ -131,8 +131,8 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <th><b>⚖️ With...</b></th>
         </tr>
         <tr>
-          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
-          <td>N/A <br> N/A</td>
+          <td><a href="https://github.com/Matt-Engarde">@Matt-Engarde</a></td>
+          <td>being a little too gay for Matt Engarde <br> and Rex Dangervest <br> being so cagey in telling you his backstory </td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
