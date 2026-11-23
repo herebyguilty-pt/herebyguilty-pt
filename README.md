@@ -58,6 +58,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>pushed bb$enior down the stairs <br> theft</td>
           <td>With chance of parole.</td>
         </tr>
+        <tr>
+          <td><a href="https://github.com/salt2465">@USERNAME</a></td>
+          <td>N/A <br> N/A</td>
+          <td>With [REDACTED] of parole.</td>
+        </tr>
       </table>
     </td>
     <td>
