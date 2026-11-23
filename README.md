@@ -64,6 +64,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>With chance of parole.</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/corruptedscall">@corruptedscall</a></td>
+          <td>Burnt a city and ripping it in <br> half  killed half a people <br> doesn't pay attention to his <br> child who left to lost temple</td>
+          <td>With chance of parole.</td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
