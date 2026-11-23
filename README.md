@@ -59,6 +59,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>With chance of parole.</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/doomedsoda">@doomedsoda</a></td>
+          <td>Kinning mafuyu asahina too much<br>drinking too much cream soda</td>
+          <td>With chance of parole.</td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
@@ -150,6 +155,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
         <tr>
           <td><a href="https://github.com/Simonzky">@Simonzky</a></td>
           <td>Being way too obsessed with stanxeno <br> arson </td>
+          <td>With zero chance of parole.</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/Ihatevines">@Ihatevines</a></td>
+          <td>Eating her own kind (ketchup)</td>
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
