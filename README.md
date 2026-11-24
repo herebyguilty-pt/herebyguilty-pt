@@ -168,6 +168,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>With zero chance of parole.</td>
         </tr>
         <tr>
+          <td><a href="https://github.com/frag1leserendip1ty">@frag1leserendip1ty</a></td>
+          <td>Writing peak oc lore <br> Being too cool</td>
+          <td>With zero chance of parole.</td>
+        </tr>
+        <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
