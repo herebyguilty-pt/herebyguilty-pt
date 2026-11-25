@@ -113,6 +113,11 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
           <td>With chance of parole.</td>
         </tr>
         <tr>
+        <tr>
+          <td><a href="https://github.com/keii-padzz">@keii-padzz</a></td>
+          <td>liking mepad and toipad wayyyyy too much <br> for robbing all the meeple stores <br> by stealing the mepads</td>
+          <td>With chance of parole.</td>
+        </tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
           <td>With [REDACTED] of parole.</td>
@@ -175,7 +180,7 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
         <tr>
           <td><a href="https://github.com/salt2465">@USERNAME</a></td>
           <td>N/A <br> N/A</td>
-          <td>With [REDACTED] of parole.</td>
+          <td>With zero chance of parole.</td>
         </tr>
       </table>
     </td>
@@ -225,7 +230,7 @@ Each nominee must only have up to two custom awards <i>(or in this case, charges
     </td>
     <td>
       <img src="https://file.garden/ZbUUWhRFzF89fVGT/Hereby%20Guilty/2Sebastian_HD_SpreadArms2.gif" width="200">
-      <p align="text-align: center;">"Another winning deduction, <br> brought to you by one <br> Winner, Eustace - <br> Prosecutor Extraordinaire!"</p>
+      <p align="text-align: center;">"Brace yourselves, because this is going <br> to blow your tiny little minds!"</p>
     </td>
   </tr>
 </table>
